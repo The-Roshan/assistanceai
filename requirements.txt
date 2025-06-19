@@ -1,0 +1,10 @@
+SpeechRecognition
+PyAudio
+pyautogui
+google-generativeai
+pygame
+gTTS
+psutil
+screen-brightness-control
+googletrans==3.1.0a0
+requests
