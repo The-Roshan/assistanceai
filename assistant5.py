@@ -42,7 +42,7 @@ class VoiceAssistant:
         self.history_text.pack(pady=10)
         
         # Configure Gemini API
-        self.api_key = "AIzaSyBPgU1268WDf2r0-nFMOxiRI-eWYIMXekQ"
+        self.api_key = "your_api"
         genai.configure(api_key=self.api_key)
         
         # Initialize Gemini model
