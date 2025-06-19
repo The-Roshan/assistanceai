@@ -38,7 +38,7 @@ Additionally, you need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/The-Roshan/assistanceai/>
    cd tasa-voice-assistant
    ```
 
@@ -129,7 +129,7 @@ Additionally, you need:
 ## Project Structure
 
 ```
-tasa-voice-assistant/
+assistantai/
 ├── tasa.py                # Main script containing the VoiceAssistant class
 ├── requirements.txt       # List of required Python libraries
 └── README.md             # This file
@@ -157,9 +157,9 @@ tasa-voice-assistant/
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
+2. Create a new branch .
+3. Make changes and commit .
+4. Push to the branch.
 5. Open a Pull Request.
 
 Please ensure code follows PEP 8 style guidelines and includes appropriate error handling.
@@ -176,7 +176,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For issues, suggestions, or questions, please open an issue on the GitHub repository or contact the maintainer at [your-email@example.com].
+For issues, suggestions, or questions, please open an issue on the GitHub repository or contact the maintainer at [roshanjsr5555@gmail.com].
 
 ---
-*Last updated: June 19, 2025*
